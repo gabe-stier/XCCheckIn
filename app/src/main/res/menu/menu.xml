@@ -7,6 +7,9 @@
         android:icon="@android:drawable/ic_menu_help"
         android:title="How to Use" />
     <item
+        android:id="@+id/addSchool"
+        android:title="Add School" />
+    <item
         android:id="@+id/createFile"
         android:icon="@android:drawable/ic_menu_help"
         android:title="Create File"/>
