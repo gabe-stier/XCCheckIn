@@ -183,6 +183,7 @@ public class MainActivity extends AppCompatActivity {
         listSchools.clear();
         listSchoolsR.clear();
         listSchoolsC.clear();
+        listRaces.clear();
         meet = schools[0];
         meet = meet.replace(",", " ");
         TextView currentMeet = findViewById(R.id.selectedMeet);
